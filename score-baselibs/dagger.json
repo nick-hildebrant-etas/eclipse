@@ -1,0 +1,14 @@
+{
+  "name": "eclipse-score-baselibs",
+  "engineVersion": "v0.20.3",
+  "sdk": {
+    "source": "python"
+  },
+  "source": ".",
+  "dependencies": [
+    {
+      "name": "scorenado_shared",
+      "source": "../../../shared"
+    }
+  ]
+}
